@@ -1,9 +1,19 @@
 # React HTML V 1.0
 
-Halaman sederhana Ngoding Pakai HTML Tapi jalankaN Di react , dengan tersedia notifikasi Toast yang Modern seperti React Toast
+Halaman sederhana Ngoding Pakai HTML Tapi jalankan Di react , dengan tersedia notifikasi Toast yang Modern seperti React Toast
 
-## Step By Step
+
+# Our Wiki
+Kamu Bisa Dapatkan Penjelasan Disini
+## Step By Step Memulai
 1. Install Notifikasi React Toastify jalankan `npm.cmd i react-toastify` di poweshell
+
+## Cara Mengubah Title Website
+Pergi Ke `Index.html`, Lalu Ubah Title Nya
+
+## Warning!!!
+Jangan Menghapus File Seperti *Index.html* , *package-lock.json*, *package.json*, *.gitignore*, *App.jsx*, *main.jsx*, dan *public\legacy\index.html*
+Jangan Memodifikasi *package-lock.json* dan *package.json*
 
 ## Menjalankan
 

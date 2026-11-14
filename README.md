@@ -1,6 +1,6 @@
 # React HTML V 1.0
 
-Halaman sederhana dengan empat tombol: Info, Success, Warning, dan Error. Setiap tombol menampilkan notifikasi React Toastify.
+Halaman sederhana Ngoding Pakai HTML Tapi jalankaN Di react , dengan tersedia notifikasi Toast yang Modern seperti React Toast
 
 ## Menjalankan
 

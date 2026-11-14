@@ -2,6 +2,9 @@
 
 Halaman sederhana Ngoding Pakai HTML Tapi jalankaN Di react , dengan tersedia notifikasi Toast yang Modern seperti React Toast
 
+## Step By Step
+1. Install Notifikasi React Toastify jalankan `npm.cmd i react-toastify` di poweshell
+
 ## Menjalankan
 
 1. jalankan `npm.cmd install` di Powershell lalu `npm.cmd run dev`.

@@ -12,8 +12,8 @@ Kamu Bisa Dapatkan Penjelasan Disini
 Pergi Ke `Index.html`, Lalu Ubah Title Nya
 
 ## Warning!!!
-Jangan Menghapus File Seperti *Index.html* , *package-lock.json*, *package.json*, *.gitignore*, *App.jsx*, *main.jsx*, dan *public\legacy\index.html*
-Jangan Memodifikasi *package-lock.json* dan *package.json*
+Jangan Menghapus File Seperti `Index.html` , `package-lock.json`, `package.json`, `.gitignore`, `App.jsx`, `main.jsx`, dan `public\legacy\index.html`
+Jangan Memodifikasi `package-lock.json` dan `package.json`
 
 ## Menjalankan
 
